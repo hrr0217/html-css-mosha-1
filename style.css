@@ -10,10 +10,12 @@ body{
 
 header {
   background: #eee;
+  text-align: center;
+  padding: 32px;
 }
 
 h1{
-  margin: 0;
+  margin: 16px 0 0;
   font-weight: normal;
   font-size: 2.4rem;
 }
@@ -23,6 +25,28 @@ p{
   font-size: 1.6rem;
 }
 
-img{
+img header{
   border-radius: 50%;
+}
+
+h2{
+  margin: 0;
+  font-weight: normal;
+  font-size: 2.4rem;
+  text-align: center;
+}
+
+h3{
+  margin: 0;
+  font-weight: normal;
+  font-size: 2rem;
+}
+
+section{
+  width: 400px;
+  margin: 64px auto 0;
+}
+
+main{
+  padding: 64px 0;
 }
