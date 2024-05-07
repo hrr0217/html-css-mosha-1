@@ -50,3 +50,23 @@ section{
 main{
   padding: 64px 0;
 }
+
+footer{
+  border-top: 1px solid #ccc;
+  text-align: center;
+  padding: 64px 0;
+}
+
+small{
+  color: #aaa;
+  font-size: 1.4rem;
+}
+
+address{
+  margin-top: 16px;
+}
+
+a:hover{
+  opacity: 0.7;
+}
+
